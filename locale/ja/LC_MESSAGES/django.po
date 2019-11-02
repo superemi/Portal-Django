@@ -95,7 +95,7 @@ msgstr "引数 '{}' を空にできません"
 #: main/templates/progress/msg-welcome.html:6
 #: main/templates/user/profile.html:145
 msgid "进行中"
-msgstr "進捗中"
+msgstr "フォローウイング"
 
 #: main/models.py:316 main/templates/progress/list.html:35
 #: main/templates/progress/list.html:71 main/templates/progress/list.html:94
